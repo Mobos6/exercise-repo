@@ -1,1 +1,1 @@
-new change with Git Bash!
+New change with Git Bash in order to create a conflict.
