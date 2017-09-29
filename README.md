@@ -1,3 +1,2 @@
-# exercise-repo
-Repo made for exercise
-Conflict resolved!
+
+# exercise-repoChanges made in the master branch.
